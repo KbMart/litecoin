@@ -66,12 +66,12 @@
         <translation>Adresy ôdbiyraniŏ</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tukej sōm adresy Litecoin na kere posyłŏsz płaty. Dycki wybaduj wielość i adresã ôdbiyrŏcza przed posłaniym mōnet.</translation>
+        <source>These are your Panda3 addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tukej sōm adresy Panda3 na kere posyłŏsz płaty. Dycki wybaduj wielość i adresã ôdbiyrŏcza przed posłaniym mōnet.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tukej sōm adresy Litecoin do ôdbiyraniŏ płatōw. Zalycŏ sie używaniŏ nowych adres ôdbiorczych dlŏ kożdyj transakcyje.</translation>
+        <source>These are your Panda3 addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tukej sōm adresy Panda3 do ôdbiyraniŏ płatōw. Zalycŏ sie używaniŏ nowych adres ôdbiorczych dlŏ kożdyj transakcyje.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,8 +338,8 @@
         <translation>Proxy je &lt;b&gt;zapuszczone&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Poślij mōnety na adresã Litecoin</translation>
+        <source>Send coins to a Panda3 address</source>
+        <translation>Poślij mōnety na adresã Panda3</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>&amp;Weryfikuj wiadōmość...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Panda3</source>
+        <translation>Panda3</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -386,12 +386,12 @@
         <translation>Szyfruj klucze prywatne, kere sōm we twojim portmanyju</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
+        <source>Sign messages with your Panda3 addresses to prove you own them</source>
         <translation>Podpisz wiadōmości swojōm adresōm coby dowiyść jejich posiadanie</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Zweryfikuj wiadōmość, coby wejzdrzeć sie, iże ôstała podpisanŏ podanōm adresōm Litecoin.</translation>
+        <source>Verify messages to ensure they were signed with specified Panda3 addresses</source>
+        <translation>Zweryfikuj wiadōmość, coby wejzdrzeć sie, iże ôstała podpisanŏ podanōm adresōm Panda3.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -410,8 +410,8 @@
         <translation>Lajsta szkart</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Żōndej płatu (gyneruje kod QR jak tyż URI litecoin:)</translation>
+        <source>Request payments (generates QR codes and panda3: URIs)</source>
+        <translation>Żōndej płatu (gyneruje kod QR jak tyż URI panda3:)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,16 +422,16 @@
         <translation>Pokŏż wykŏz adres i etyket użytych do ôdbiyraniŏ</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Ôdewrzij URI litecoin: abo żōndanie płatu</translation>
+        <source>Open a panda3: URI or payment request</source>
+        <translation>Ôdewrzij URI panda3: abo żōndanie płatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Ôp&amp;cyje piski nakŏzań</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktywne połōnczynie do necu Litecoin</numerusform><numerusform>%n aktywnych połōnczyń do necu Litecoin</numerusform><numerusform>%n aktywnych skuplowań do necu Litecoin</numerusform></translation>
+        <source>%n active connection(s) to Panda3 network</source>
+        <translation><numerusform>%n aktywne połōnczynie do necu Panda3</numerusform><numerusform>%n aktywnych połōnczyń do necu Panda3</numerusform><numerusform>%n aktywnych skuplowań do necu Panda3</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -478,7 +478,7 @@
         <translation>&amp;Adresy posyłaniŏ</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Panda3 command-line options</source>
         <translation>Pokŏż pōmoc %1 coby zobŏczyć wykŏz wszyjskich ôpcyji piski nakŏzań.</translation>
     </message>
     <message>
@@ -558,8 +558,8 @@
         <translation>Portmanyj je &lt;b&gt;zaszyfrowany&lt;/b&gt; i terŏźnie &lt;b&gt;zaszperowany&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Przitrefiōł sie krytyczny feler. Litecoin niy poradzi kōntynuować bezpiycznie i ôstanie zawrzity.</translation>
+        <source>A fatal error occurred. Panda3 can no longer continue safely and will quit.</source>
+        <translation>Przitrefiōł sie krytyczny feler. Panda3 niy poradzi kōntynuować bezpiycznie i ôstanie zawrzity.</translation>
     </message>
 </context>
 <context>
@@ -748,8 +748,8 @@
         <translation>Edytuj adresã posyłaniŏ</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Wkludzōnŏ adresa "%1" niyma nŏleżnōm adresōm Litecoin.</translation>
+        <source>The entered address "%1" is not a valid Panda3 address.</source>
+        <translation>Wkludzōnŏ adresa "%1" niyma nŏleżnōm adresōm Panda3.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -841,8 +841,8 @@
         <translation>Użyj ôbranego folderu datōw</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Panda3</source>
+        <translation>Panda3</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -853,8 +853,8 @@
         <translation>Kole %1 GB datōw ôstanie spamiyntane w tym katalogu.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Litecoin block chain.</source>
-        <translation>%1 sebiere i spamiyntŏ kopijõ kety blokōw Litecoin.</translation>
+        <source>%1 will download and store a copy of the Panda3 block chain.</source>
+        <translation>%1 sebiere i spamiyntŏ kopijõ kety blokōw Panda3.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -884,12 +884,12 @@
         <translation>Formular</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Świyże transakcyje mogōm niy być jeszcze widzialne, a tedyć saldo portmanyja może być niynŏleżne. Te detale bydōm nŏleżne, kej portmanyj zakōńczy synchrōnizacyjõ z necym litecoin, zgodnie z miyniōnym ôpisym.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the panda3 network, as detailed below.</source>
+        <translation>Świyże transakcyje mogōm niy być jeszcze widzialne, a tedyć saldo portmanyja może być niynŏleżne. Te detale bydōm nŏleżne, kej portmanyj zakōńczy synchrōnizacyjõ z necym panda3, zgodnie z miyniōnym ôpisym.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Prōba wydaniŏ litecoinōw kere niy sōm jeszcze wyświytlōne za transakcyjŏ ôstanie ôdciepniyntŏ bez nec.</translation>
+        <source>Attempting to spend panda3s that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Prōba wydaniŏ panda3ōw kere niy sōm jeszcze wyświytlōne za transakcyjŏ ôstanie ôdciepniyntŏ bez nec.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1042,8 +1042,8 @@
         <translation>&amp;Wydej niyprzituplowanõ wydŏwkã</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Autōmatycznie ôdewrzij port klijynta Litecoin na routerze. Ta ôpcyjŏ funguje ino jeźli twōj router podpiyrŏ UPnP i je ôno zapuszczone.</translation>
+        <source>Automatically open the Panda3 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Autōmatycznie ôdewrzij port klijynta Panda3 na routerze. Ta ôpcyjŏ funguje ino jeźli twōj router podpiyrŏ UPnP i je ôno zapuszczone.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1058,8 +1058,8 @@
         <translation>Zwōl na skuplowania przichodzōnce</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Skupluj sie z necym Litecoin bez SOCKS5 proxy.</translation>
+        <source>Connect to the Panda3 network through a SOCKS5 proxy.</source>
+        <translation>Skupluj sie z necym Panda3 bez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1090,8 +1090,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Skupluj sie z necym Litecoin ze pōmocōm ôsobnego proxy SOCKS5 dlŏ necu TOR</translation>
+        <source>Connect to the Panda3 network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Skupluj sie z necym Panda3 ze pōmocōm ôsobnego proxy SOCKS5 dlŏ necu TOR</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1137,8 +1137,8 @@
         <translation>Formular</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświytlanŏ informacyjŏ może być niyterŏźnŏ. Twōj portmanyj synchrōnizuje sie autōmatycznie z necym litecoin zarŏz po tym, jak zrychtowane je skuplowanie, ale proces tyn niy ôstoł jeszcze skōńczōny.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Panda3 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświytlanŏ informacyjŏ może być niyterŏźnŏ. Twōj portmanyj synchrōnizuje sie autōmatycznie z necym panda3 zarŏz po tym, jak zrychtowane je skuplowanie, ale proces tyn niy ôstoł jeszcze skōńczōny.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1172,8 +1172,8 @@
         <translation>Bedynōng URI</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' to niyma nŏleżne URI. Użyj 'litecoin:'.</translation>
+        <source>'panda3://' is not a valid URI. Use 'panda3:' instead.</source>
+        <translation>'panda3://' to niyma nŏleżne URI. Użyj 'panda3:'.</translation>
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
@@ -1218,8 +1218,8 @@
         <translation>Kwota</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Wkludź adresã Litecoin (bp. %1)</translation>
+        <source>Enter a Panda3 address (e.g. %1)</source>
+        <translation>Wkludź adresã Panda3 (bp. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1438,8 +1438,8 @@
         <translation>&amp;Etyketa:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Ôpcyjōnalnŏ wiadōmość do prziwstōniŏ do żōndaniŏ płatu, kerŏ bydzie wyświytlanŏ, kej żōndanie ôstanie ôdewrzōne. Napōmniynie: wiadōmość ta niy ôstanie wysłanŏ z płatym w nec Litecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Panda3 network.</source>
+        <translation>Ôpcyjōnalnŏ wiadōmość do prziwstōniŏ do żōndaniŏ płatu, kerŏ bydzie wyświytlanŏ, kej żōndanie ôstanie ôdewrzōne. Napōmniynie: wiadōmość ta niy ôstanie wysłanŏ z płatym w nec Panda3.</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1643,8 +1643,8 @@
         <translation>Utworzynie transakcyje niy podarziło sie!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Litecoin address</source>
-        <translation>Pozōr: niynŏleżnŏ adresa Litecoin</translation>
+        <source>Warning: Invalid Panda3 address</source>
+        <translation>Pozōr: niynŏleżnŏ adresa Panda3</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -1666,8 +1666,8 @@
         <translation>To je normalny płat.</translation>
     </message>
     <message>
-        <source>The Litecoin address to send the payment to</source>
-        <translation>Adresa Litecoin, na kerõ chcesz posłać płat</translation>
+        <source>The Panda3 address to send the payment to</source>
+        <translation>Adresa Panda3, na kerõ chcesz posłać płat</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1686,8 +1686,8 @@
         <translation>Wiadōmość:</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Wiadōmość, kerŏ ôstała prziwstōnŏ do URI litecoin:, kerŏ bydzie przechowowanŏ z transakcyjōm w cylach informacyjnych. Napōmniynie: Ta wiadōmość niy bydzie rozszyrzowanŏ w necu Litecoin.</translation>
+        <source>A message that was attached to the panda3: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Panda3 network.</source>
+        <translation>Wiadōmość, kerŏ ôstała prziwstōnŏ do URI panda3:, kerŏ bydzie przechowowanŏ z transakcyjōm w cylach informacyjnych. Napōmniynie: Ta wiadōmość niy bydzie rozszyrzowanŏ w necu Panda3.</translation>
     </message>
     </context>
 <context>
@@ -1955,8 +1955,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Panda3 Core</source>
+        <translation>Panda3 Core</translation>
     </message>
     <message>
         <source>The %s developers</source>
