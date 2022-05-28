@@ -1,41 +1,41 @@
-Litecoin Core
+Panda3 Core
 =============
 
 Setup
 ---------------------
-Litecoin Core is the original Litecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Litecoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Panda3 Core is the original Panda3 client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Panda3 transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Litecoin Core, visit [litecoin.org](https://litecoin.org/).
+To download Panda3 Core, visit [panda3.org](https://panda3.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Litecoin Core on your native platform.
+The following are some helpful notes on how to run Panda3 Core on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/litecoin-qt` (GUI) or
-- `bin/litecoind` (headless)
+- `bin/panda3-qt` (GUI) or
+- `bin/panda3d` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run litecoin-qt.exe.
+Unpack the files into a directory, and then run panda3-qt.exe.
 
 ### macOS
 
-Drag Litecoin Core to your applications folder, and then run Litecoin Core.
+Drag Panda3 Core to your applications folder, and then run Panda3 Core.
 
 ### Need Help?
 
-* See the documentation at the [Litecoin Wiki](https://litecoin.info/)
+* See the documentation at the [Panda3 Wiki](https://panda3.info/)
 for help and more information.
-* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [LitecoinTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
+* Ask for help on [#panda3](http://webchat.freenode.net?channels=panda3) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=panda3).
+* Ask for help on the [Panda3Talk](https://panda3talk.io/) forums, in the [Technical Support section](https://panda3talk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build Litecoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Panda3 Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build Litecoin Core on your native p
 
 Development
 ---------------------
-The Litecoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Panda3 repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -64,8 +64,8 @@ The Litecoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [LitecoinTalk](https://litecointalk.io/) forums.
-* Discuss general Litecoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
+* Discuss on the [Panda3Talk](https://panda3talk.io/) forums.
+* Discuss general Panda3 development on #panda3-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=panda3-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
